@@ -7,6 +7,10 @@ overview: true
 <section>
 <h1>Rockstars!</h1>
 <p>This uses new Jekyll data features!</p>
-
-<p>Is this working? I can't tell!</p>
+{% for rockstar in site.data.rockstars %}
+  <p>
+    {{ rockstar.name }}
+  </p>
+{% endfor  %}
+<p>Is this working? Seems to be!</p>
 </section>
