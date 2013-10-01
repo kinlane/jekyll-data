@@ -1,6 +1,5 @@
 pygments: true
 relative_permalinks: false
-gauges_id: 
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
 repository: http://kinlane.github.io/jekyll-data
