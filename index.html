@@ -5,12 +5,22 @@ overview: true
 ---
 
 <section>
-<h1>Rockstars!</h1>
-<p>This uses new Jekyll data features!</p>
+<h1>Jekyll Data</h1>
+<p>This is a working project to show what is possible with Jekyll and APIs</p>
+
+<ul>
+    <li><a href="api/feed.xml">feed.xml</a></li>
+    <li><a href="api/articles.json">api/articles.json</a></li>
+    <li><a href="api/glossary.json">api/glossary.json</a></li>
+    <li><a href="api/glossary.json">api/questions.json</a></li>
+</li>
+
+<p><a href="https://github.com/kinlane/jekyll-data">Return to Root Repo</a></p>
+
+<h3>New _data Features (Not working yet)
 {% for rockstar in site.rockstars %}
   <p>
     {{ rockstar.name }}
   </p>
 {% endfor  %}
-<p>Is this working? Seems to be!</p>
 </section>
