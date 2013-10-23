@@ -25,6 +25,7 @@ categories: null
 tags: 
   - promote
 state: all
+type: articles
 ---
 
 Depending on the plan you choose in the Marketplace, you may be able to keep your current doctor. 

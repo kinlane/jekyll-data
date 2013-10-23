@@ -36,6 +36,7 @@ categories: null
 tags: 
   - promote
 state: all
+type: articles
 ---
 
 If a plan covers children, they can be added or kept on the health insurance policy until they turn 26 years old.

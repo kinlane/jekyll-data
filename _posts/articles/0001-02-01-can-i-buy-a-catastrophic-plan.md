@@ -28,6 +28,7 @@ categories: null
 tags: 
   - promote
 state: all
+type: articles
 ---
 
 People under 30 and some people with limited incomes may buy what is called a "catastrophic" health plan. It protects you from very high medical costs. 

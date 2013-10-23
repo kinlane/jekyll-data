@@ -5,7 +5,7 @@ lang: es
 tags: question
 categories:
   - question
-
+type: questions
 ---
 
 The only requirements to get insurance through the Marketplace are:

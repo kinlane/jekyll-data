@@ -6,6 +6,7 @@ tags:
   - question
 categories: 
   - question
+type: questions  
 ---
 
 Yes, if your plan is ["grandfathered",](/glossary/grandfathered-health-plan "glossary") these benefits may not be available to you.

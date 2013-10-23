@@ -30,6 +30,7 @@ categories: null
 tags: 
   - promote
 state: all
+type: articles
 ---
 
 If your children need health coverage, they may be eligible for the Children's Health Insurance Program (CHIP). If they qualify, you won't need to buy a Marketplace plan to cover them.

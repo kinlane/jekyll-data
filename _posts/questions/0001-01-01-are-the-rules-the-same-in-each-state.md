@@ -5,7 +5,7 @@ tags: question
 categories:
   - question
 title: "Are the rules the same in each state?"
-
+type: questions
 ---
 
 Yes. The rules about paying penalties are the same whether the Marketplace is run by your state or the federal government. 

@@ -27,6 +27,7 @@ categories: null
 tags: 
   - promote
 state: all
+type: articles
 ---
 
 Most people will be eligible for health coverage through the Health Insurance Marketplace. 
