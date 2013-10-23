@@ -1,3 +1,8 @@
 ---
 ---
-{"glossary": [{% for post in site.tags.glossary %}{{post | json}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+{"glossary":[{% for post in site.posts %}{% if post.type == 'glossary' %}
+		{
+		"title":"{{post.title}}",
+		"body":"{{post.content | newline_to_br | escape | strip_newlines}}"
+		},{% endif %}{% endfor %}false
+]}
